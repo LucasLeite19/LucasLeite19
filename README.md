@@ -17,7 +17,7 @@
 - 🌐 Aprender JavaScript e outras tecnologias front-end.
 
 🤝 Vamos Conectar:
-- 🔗  [LinkedIn](https://linkedin.com/in/llcaldeira)
+- 🔗 [LinkedIn(https://linkedin.com/in/llcaldeira)
 - 🐦 [Twitter](https://twitter.com/Luleca18)
 - 🌐 [Portfolio](--)
 
@@ -31,3 +31,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLeite19&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+#FrontEnd #HTML #CSS #WebDev
