@@ -1,8 +1,29 @@
-## Bem-vindo ao Prfil Do Lucas 
- 
-Hoje eu estudos front-end.<br>
-Conhecimento basico em Html & CSS
- 
+### 👋 Olá, Mundo! Sou Lucas Leite
+
+🚀 Desenvolvedor Front-end em ascensão | HTML & CSS Enthusiast 🎨
+
+🌟 Sobre Mim:
+- 👨‍💻 Apaixonado por criar interfaces atraentes e interativas.
+- 🌱 Atualmente, estou aprimorando minhas habilidades em HTML e CSS.
+- 📚 Aprendendo constantemente para me tornar um desenvolvedor front-end mais completo.
+
+💡 O Que Eu Faço:
+- 🖥️ Desenvolvimento de interfaces responsivas.
+- 🎨 Estilização elegante com CSS para melhorar a experiência do usuário.
+- 🌐 Explorando novas tecnologias front-end para expandir meu conhecimento.
+
+🚀 Objetivos:
+- 📈 Contribuir para projetos interessantes e desafiadores.
+- 🌐 Aprender JavaScript e outras tecnologias front-end.
+
+🤝 Vamos Conectar:
+- 🔗 [LinkedIn]([seu-link-do-linkedin](https://www.linkedin.com/in/llcaldeira/)
+- 🐦 [Twitter]([seu-link-do-twitter](https://twitter.com/Luleca18))
+- 🌐 [Portfolio](--)
+
+📫 Como Chegar Até Mim:
+- 📧 [SeuEmail@example.com](mailto:
+lucas-caldeira.6@outlook.com)
 
 <div align="center">
   <a href="https://github.com/LucasLeite19">
