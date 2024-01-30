@@ -19,11 +19,10 @@
 🤝 Vamos Conectar:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/llcaldeira/)
 - 🐦 [Twitter](https://twitter.com/Luleca18)
-- 🌐 [Portfolio](--)
+- 🌐 [Portfolio](seu-portfolio-se-houver)
 
 📫 Como Chegar Até Mim:
-- 📧  [Email](mailto:lucas-caldeira.6@outlook.com)
-
+- 📧 [Meu Email](mailto:lucas-caldeira.6@outlook.com)
 
 <div align="center">
   <a href="https://github.com/LucasLeite19">
