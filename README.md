@@ -17,8 +17,8 @@
 - 🌐 Aprender JavaScript e outras tecnologias front-end.
 
 🤝 Vamos Conectar:
-- 🔗 [LinkedIn]([seu-link-do-linkedin](https://www.linkedin.com/in/llcaldeira/)
-- 🐦 [Twitter]([seu-link-do-twitter](https://twitter.com/Luleca18))
+- 🔗 [LinkedIn](([seu-link-do-linkedin](https://www.linkedin.com/in/llcaldeira/))
+- 🐦 [Twitter](([seu-link-do-twitter](https://twitter.com/Luleca18))
 - 🌐 [Portfolio](--)
 
 📫 Como Chegar Até Mim:
