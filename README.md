@@ -22,7 +22,7 @@
 - 🌐 [Portfolio](--)
 
 📫 Como Chegar Até Mim:
-- 📧  Email: lucas-caldeira.6@outlook.com
+- 📧  [Email](mailto:lucas-caldeira.6@outlook.com)
 
 
 <div align="center">
