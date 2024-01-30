@@ -17,13 +17,13 @@
 - 🌐 Aprender JavaScript e outras tecnologias front-end.
 
 🤝 Vamos Conectar:
-- 🔗 [LinkedIn](([Lucas](https://www.linkedin.com/in/llcaldeira/))
-- 🐦 [Twitter](([Lucas](https://twitter.com/Luleca18))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/llcaldeira/)
+- 🐦 [Twitter](https://twitter.com/Luleca18)
 - 🌐 [Portfolio](--)
 
 📫 Como Chegar Até Mim:
-- 📧 [E-mail](mailto:
-lucas-caldeira.6@outlook.com)
+- 📧  Email: lucas-caldeira.6@outlook.com
+
 
 <div align="center">
   <a href="https://github.com/LucasLeite19">
