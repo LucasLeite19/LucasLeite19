@@ -1,6 +1,6 @@
 👋 Olá, Mundo! Sou Lucas Leite Caldeira
 
-Sou um estudante de desenvolvimento Full Stack apaixonado por tecnologia e inovação. Estou constantemente buscando aprender novas habilidades e aprimorar meus conhecimentos em programação e desenvolvimento web
+Sou um estudante de desenvolvimento Full Stack apaixonado por tecnologia e inovação. Estou constantemente buscando aprender novas habilidades e aprimorar meus conhecimentos em programação e desenvolvimento web.
 
 🌟 Sobre Mim:
 
