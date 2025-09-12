@@ -46,7 +46,6 @@ Uma aplicação de lista de tarefas feita com React e Node.js.
 🌐 [Projeto 3: Blog API](https://github.com/seuusuario/blogapi)
 Uma API RESTful para um blog, construída com Express.js e MongoDB.
 
-
 🤝 Contato:
 - 🔗 [LinkedIn](https://linkedin.com/in/llcaldeira/)
 - 🐦 [Twitter](https://twitter.com/Luleca18)
